@@ -1,8 +1,7 @@
 ### Hi there 👋
-
 ![jwonyLee's github stats](https://github-readme-stats.vercel.app/api?username=jwonyLee&show_icons=true&theme=graywhite)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwonyLee)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwonyLee&layout=compact)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwonylee&cache=c)](https://solved.ac/jwonylee)
 
