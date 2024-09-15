@@ -1,8 +1,16 @@
 ### Hi there 👋
 
-- What's going on?
+- Software Engineer, iOS.
+- Currently working in the Personal Mobility industry.
+- Learn through repeated failures.
+- Want to help people with their daily lives through technology.
+- Prefer to create user-friendly products.
+- Interested in Productivity Tools, Software Architecture, and Building Personal Knowledge Systems.
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jwonylee)](https://solved.ac/jwonylee)
-
-
-<a href="https://jiwon.tech" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Resume-000000?logo=notion&logoColor=white"/></a> <a href="https://www.linkedin.com/in/jwonylee/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&logoColor=white" /></a> <a href="mailto:rieul@rieul.tech" rel="noopener"><img src="https://img.shields.io/badge/Email-D14836?logo=Gmail&logoColor=white" /></a>
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/jwonyLee?contribution-view=false"
+  width="600"
+  height="300"
+/>
+</a>
